@@ -1,0 +1,23 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à³æ‹úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à³æ‹úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁçõÈúÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§’Èå
+t
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(»²Ãÿùÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ÿ¶äøÿÿÿÿ
+„
+java:S1319"iThe type of "listwords" should be an interface such as "List" rather than the implementation "ArrayList".(Ö²¥âùÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ý³Ž(
+W
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(³™Ðþÿÿÿÿ
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ý³Ž(
+t
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ý½©Éûÿÿÿÿ

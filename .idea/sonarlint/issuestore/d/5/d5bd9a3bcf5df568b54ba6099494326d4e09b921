@@ -1,0 +1,24 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¹ý”Ï
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûžK
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²Áßþ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Çµí‘
+N
+java:S1854'"8Remove this useless assignment to local variable "curr".(©ˆ£Ë
+N
+java:S1854."8Remove this useless assignment to local variable "curr".(©ˆ£Ë
+N
+java:S18545"8Remove this useless assignment to local variable "curr".(©ˆ£Ë
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(‡þÃÒ
+g
+java:S18712"LThis branch's code block is the same as the block for the branch on line 36.(°¯®–üÿÿÿÿ
+g
+java:S1871+"LThis branch's code block is the same as the block for the branch on line 36.(±û•¾ÿÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ

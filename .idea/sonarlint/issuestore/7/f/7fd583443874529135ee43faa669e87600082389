@@ -1,0 +1,11 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(šÁ“è
+E
+java:S3740)"/Provide the parametrized type for this generic.(‚ûû‚
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç—ŒÚùÿÿÿÿ
+c
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¤ÊöÊûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(±–ş‡şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´™éøÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒæŸæÿÿÿÿÿ

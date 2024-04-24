@@ -1,0 +1,21 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¯‡˜ÿÿÿÿÿ8Ó£ä¨0
+B
+java:S3010"%Remove this assignment of "vertices".(µñòÁ8Ä­ä¨0
+=
+java:S3010" Remove this assignment of "adj".(ÿéµ8É­ä¨0
+B
+java:S3010" Remove this assignment of "adj".(€¯‡˜ÿÿÿÿÿ8Î­ä¨0
+R
+java:S2209"5Change this instance-reference to a static reference.(µñòÁ8ª®ä¨0
+R
+java:S2209"5Change this instance-reference to a static reference.(ÿéµ8¬®ä¨0
+X
+java:S1854"6Remove this useless assignment to local variable "cg".(›Ñ’ñøÿÿÿÿ8‹°ä¨0
+I
+java:S1481"'Remove this unused "cg" local variable.(›Ñ’ñøÿÿÿÿ8É°ä¨0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(şúİèúÿÿÿÿ8£±ä¨0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(è£Ù¬ıÿÿÿÿ8¬±ä¨0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÊĞ‡Æ8´±ä¨0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ó±ä¨0

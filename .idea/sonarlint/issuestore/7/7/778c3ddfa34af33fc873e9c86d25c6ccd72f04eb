@@ -1,0 +1,10 @@
+
+r
+java:S1104"UMake ladderMap a static final constant or non-public and provide accessors if needed.(ÞÔÞ¢8ž­þµ…1
+L
+java:S1444"/Make this "public static ladderMap" field final(ÞÔÞ¢8Ÿ­þµ…1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç—ŒÚùÿÿÿÿ
+:
+java:S2386"Make this member "protected".(ÞÔÞ¢8¤­þµ…1
+P
+java:S1128"3Remove this unused import 'Cache.AssociativeCache'.(âû«ƒ8ì±ýµ…1

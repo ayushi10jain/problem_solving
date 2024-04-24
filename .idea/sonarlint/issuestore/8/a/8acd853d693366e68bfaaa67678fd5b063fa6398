@@ -1,0 +1,23 @@
+
+J
+java:S3740+"/Provide the parametrized type for this generic.(öéæºüÿÿÿÿ
+J
+java:S37401"/Provide the parametrized type for this generic.(òúãøÿÿÿÿÿ
+J
+java:S3740<"/Provide the parametrized type for this generic.(µïÌ±úÿÿÿÿ
+E
+java:S3740D"/Provide the parametrized type for this generic.(š½€Ö
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë©Õ¶
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ü³–şÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‰è
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶…Âşÿÿÿÿ
+P
+java:S1191	"5Use classes from the Java API instead of Sun classes.(üÒ©Œıÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(Ë©Õ¶
+E
+java:S1197"*Move the array designators [] to the type.(¦ü³–şÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ò‹®üşÿÿÿÿ
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¸–Ø
+M
+java:S1128"7Remove this unused import 'heap.KthMaximumsum.Triplet'.(›ëé¢

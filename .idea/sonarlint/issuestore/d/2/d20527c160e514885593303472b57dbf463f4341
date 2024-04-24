@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ø†¸Ë
+E
+java:S3740"/Provide the parametrized type for this generic.(¤»Ö¥
+e
+java:S1104"OMake key a static final constant or non-public and provide accessors if needed.(Åªù˜
+f
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(áâo
+j
+java:S1104"TMake decision a static final constant or non-public and provide accessors if needed.(ŸÇõœ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³úÁ°üÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”´šüÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”´šüÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”´šüÿÿÿÿ

@@ -1,0 +1,21 @@
+
+E
+java:S3740B"/Provide the parametrized type for this generic.(¡Â³ƒ
+o
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ü»­¨
+Q
+java:S1854+"6Remove this useless assignment to local variable "sd".(¨Ÿ¾ãùÿÿÿÿ
+C	java:S108'")Either remove or fill this block of code.(„Ú­øÿÿÿÿ
+B
+java:S1481+"'Remove this unused "sd" local variable.(¨Ÿ¾ãùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(”Â¤ƒùÿÿÿÿ
+=
+java:S1125F"'Remove the unnecessary boolean literal.(šĞË
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'jdk.internal.util.xml.impl.Pair'.(êµ„²

@@ -1,0 +1,20 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "cg".(‰ð—±ûÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "flag".(úÒòÿ
+F
+java:S2440"+Remove this instantiation of "CreateGraph".(‰ð—±ûÿÿÿÿ
+B
+java:S1481"'Remove this unused "cg" local variable.(‰ð—±ûÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ï¡ÖÍ
+?
+java:S1481")Remove this unused "flag" local variable.(úÒòÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ží•Å
+V	java:S125"<This block of commented-out lines of code should be removed.(’Î‡ãýÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(¢Ôðœÿÿÿÿÿ
+\
+java:S1126%"AReplace this if-then-else statement by a single return statement.(ÍÑÃƒùÿÿÿÿ
